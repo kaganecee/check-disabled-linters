@@ -1,0 +1,9 @@
+name: 'Check Disabled Linters'
+description: "GitHub action checking disabled linters then comment to pull request"
+author: "kaganecee"
+runs:
+  using: 'node16'
+  main: '.dist/index.js'
+branding:
+  icon: 'octagon'
+  color: 'green'
