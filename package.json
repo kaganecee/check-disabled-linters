@@ -1,5 +1,6 @@
 {
   "name": "check-disabled-linters",
+  "author":"Bilge Kağan Ece",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
