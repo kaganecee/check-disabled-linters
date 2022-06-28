@@ -1,6 +1,6 @@
 # Check Disabled Linters
 
-GitHub action checking disabled linters then comment to pull request.
+GitHub action checking disabled line linters then comment to pull request.
 
 ## Usage
 
